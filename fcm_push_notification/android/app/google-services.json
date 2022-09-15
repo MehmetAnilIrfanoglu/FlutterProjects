@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709568271353",
+    "project_id": "comp205-fcm-push-notifications",
+    "storage_bucket": "comp205-fcm-push-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709568271353:android:3b7b4e65d1ac511e666328",
+        "android_client_info": {
+          "package_name": "stonyali.com.comp205_fcm_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709568271353-h4ijbp2s580lcfc0siots69f6g3rsd4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo0NqXaxKa0emxIU4C4UNAOoT5a7Xhv80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709568271353-h4ijbp2s580lcfc0siots69f6g3rsd4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
